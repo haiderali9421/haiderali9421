@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **haiderali.jnr@gmail.com**
 
-- 📄 Know about my experiences (https://lnk.ink/resume_HaiderAli)
+- 📄 Know about my experiences <a href="https://lnk.ink/resume_HaiderAli"> View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
