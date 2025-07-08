@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Analyst | 📊 Excel | 📈 Power BI | 🐍 Python | 🗃️ SQL | 💡 Insights-Driven
 
-<a href="https://drive.google.com/drive/folders/115qBy7TN9ILFLn5SenzqtgqHFPM4NUlO?usp=drive_link" target="_blank" style="
+<!-- <a href="https://drive.google.com/drive/folders/115qBy7TN9ILFLn5SenzqtgqHFPM4NUlO?usp=drive_link" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #0078D4;
@@ -13,7 +13,7 @@
   font-family: sans-serif;
 ">
   View My Resume
-</a>
+</a> -->
 
 
 ---
