@@ -18,9 +18,7 @@
 
 ---
 
-Welcome to my GitHub! I’m a passionate data analyst based in Salt Lake, Kolkata, currently pursuing a **Data Science certification** from Ivy Professional School. With a background in HR analytics and a growing portfolio of data projects, I aim to turn raw data into clear, actionable insights using tools like Excel, SQL, Power BI, and Python.
-
----
+Hey! Welcome to my GitHub!, I'm Haider, a passionate Data Analyst skilled in transforming raw data into impactful business insights using Excel, SQL, Power BI, and Python.
 
 ## 📈 Career Snapshot
 
