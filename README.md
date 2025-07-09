@@ -1,6 +1,6 @@
 # 👋 Hey, Welcome to my data space. 
 
-🎯 Aspiring Data Analyst | 📊 Excel | 📈 Power BI | 🐍 Python | 🗃️ SQL | 💡 Insights-Driven
+Data Analyst | 📊 Excel | 📈 Power BI | 🐍 Python | 🗃️ SQL | 💡 Insights-Driven
 
 <!-- <a href="https://drive.google.com/drive/folders/115qBy7TN9ILFLn5SenzqtgqHFPM4NUlO?usp=drive_link" target="_blank" style="
   display: inline-block;
