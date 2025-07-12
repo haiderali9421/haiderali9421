@@ -64,9 +64,6 @@ Hey! Welcome to my GitHub!, I'm Haider, a passionate Data Analyst skilled in tra
 ### 📚 [Amazon Book Sales Insights (SQL)]()
 > SQL project analyzing best-selling book genres, rating trends, and format preferences from Kaggle dataset.
 
-### 📘 [Excel Internship Challenge (Ivy)]()
-> 15 Excel-based data analysis tasks covering fundamentals to advanced problem-solving using real-world datasets.
-
 ---
 
 _“Data is the new oil, and I strive to refine it into impactful insights.”_
